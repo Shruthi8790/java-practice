@@ -1,8 +1,10 @@
-
+//taking class name as LeapOrNot
 public class LeapOrNot {
 
 	public static void main(String[] args) {
+		//Member variables
 		int year=2024;
+		
 		if(year%4==0 && year%400==0){
 			System.out.println(year+ " is a Leap year");
 			
