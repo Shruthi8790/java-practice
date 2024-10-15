@@ -2,6 +2,7 @@
 public class SimpleInterest {
 
 	public static void main(String[] args) {
+        //Member variables
         int p=20000;
         float r=2.5f;
         int t=1;// Time period (in years)
