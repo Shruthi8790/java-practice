@@ -1,7 +1,8 @@
-
+//taking a class name as Triangle
 public class Triangle {
 
 	public static void main(String[] args) {
+	// member variables with intialisation
 	 int a=48;
 	 int b=90;
 	 int c=42;
