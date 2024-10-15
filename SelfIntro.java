@@ -3,6 +3,7 @@ package secondproject;
 public class SelfIntro {
 
 	public static void main(String[] args) {
+		// Displaying Studant information in console
 		System.out.println("My name is Shruthi");
 		System.out.println("I am from Nagarkurnool");
 		System.out.println("I am pursuing MCA in Avanthi PG College");
