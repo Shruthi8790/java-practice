@@ -1,11 +1,12 @@
 package week;
 import java.util.Scanner;
-
+//Taking class name as Week
 public class Week {
 
 	public static void main(String[] args) {
-		
+		//Creating a object for Scanner class
 		Scanner sc=new Scanner(System.in);
+		//Taking a input through keyboard
 		System.out.print("enter your choice");
 		int opt=sc.nextInt();
 		switch(opt)
