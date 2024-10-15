@@ -1,7 +1,8 @@
-
+//Taking a class name as Greatest of numbers
 public class GreatestOfNumber {
 
 	public static void main(String[] args) {
+		//member variables
 		int num1=64;
 		int num2=88;
 		int num3=66; 
@@ -24,6 +25,7 @@ if(num2>greatestNumber)
 {
 		greatestNumber=num5;
 }
+		// displaying the greatest number among five numbers
 	  System.out.println("GreatestNumber is:" +greatestNumber);
   }
 
